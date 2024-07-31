@@ -1,0 +1,5 @@
+# Created at 2024-05-19T16:04:44.560
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Devops_Rekha\aws-refactor\vprofile-project\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
